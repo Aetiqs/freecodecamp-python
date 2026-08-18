@@ -1,0 +1,24 @@
+# Python
+__pycache__/       # dossier de cache genere automatiquement par Python
+*.py[cod]          # fichiers compiles (.pyc, .pyo, .pyd), regenerables
+
+# Environnements virtuels (a recreer localement avec: python -m venv venv)
+venv/
+env/
+.venv/
+ENV/
+
+# Variables d'environnement (mots de passe, cles API... jamais sur GitHub)
+.env
+
+# VSCode (config locale a ta machine, pas utile aux autres)
+.vscode/
+
+# macOS (fichier cache genere par le Finder)
+.DS_Store
+
+# Windows (cache de miniatures genere par l'explorateur)
+Thumbs.db
+
+# Logs (fichiers de trace generes par tes scripts)
+*.log
