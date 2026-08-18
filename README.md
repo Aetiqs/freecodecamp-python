@@ -51,3 +51,4 @@ Suivi basé sur le parcours [Python (v9)](https://www.freecodecamp.org/learn/pyt
 ## 📝 Notes
 
 Ce projet est à but pédagogique et sert de suivi personnel de mon apprentissage.
+Je décide de garder les branch pour ce projet
